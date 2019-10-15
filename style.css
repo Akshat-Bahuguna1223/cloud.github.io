@@ -1,0 +1,49 @@
+body
+{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+}
+    
+.simpleform
+{
+    text-align: center;
+    margin: 100px 500px;
+    
+}
+
+#registration
+{
+    width: 100%;
+    background-color: #051019;
+    opacity: 0.8;
+    padding: 50px 0px;
+}
+
+#button, #ph
+{
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+#ph{
+    width: 210px;
+}
+
+#phone
+{
+    outline: 0px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 70px; 
+}
+
+#rd{
+    
+}
+
+#but{
+    color: white;
+    font-size: 18px;
+}
